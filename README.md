@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
-//- 📫 How to reach me **singhabhinav8946@gmail.com**
-
 - ⚡ Fun fact **I am cool 😎**
 
 <h3 align="left">Connect with me:</h3>
