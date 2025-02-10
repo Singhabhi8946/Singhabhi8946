@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain technology**
+- 🌱 I’m currently learning **Blockchain Technology**
 
-- 📫 How to reach me **singhabhinav8946@gmail.com**
+//- 📫 How to reach me **singhabhinav8946@gmail.com**
 
 - ⚡ Fun fact **I am cool 😎**
 
